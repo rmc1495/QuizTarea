@@ -173,6 +173,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\IMG\1.jpg" />
+    <Content Include="Content\IMG\2.jpg" />
+    <Content Include="Content\IMG\3.JPG" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <None Include="Web.Debug.config">

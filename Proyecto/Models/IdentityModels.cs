@@ -47,7 +47,7 @@ namespace IdentitySample.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("ProyectoPrograAvanzada", throwIfV1Schema: false)
+            : base("Quiz", throwIfV1Schema: false)
         {
         }
 
